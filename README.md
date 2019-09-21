@@ -1,3 +1,5 @@
+Binary Authorization is a Google Cloud Platform (GCP) managed service that works closely with Google Kubernetes Engine (GKE) to enforce deploy-time security controls to ensure that only trusted container images are deployed. This demo deploys a GKE cluster with the Binary Authorization feature enabled, demonstrates its use.
+
 # Google Kubernetes Engine Binary Authorization Demo
 
 ## Table of Contents
